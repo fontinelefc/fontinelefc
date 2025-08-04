@@ -1,6 +1,6 @@
 Fontinele,
 
-Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, estudando e se aperfeiçoando nas áreas de **programação, redes de computadores, infraestrutura e cibersegurança**. Entusiasta de tecnologia, busco sempre me tornar um profissional cada vez mais completo.
+Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, foco em aprendizado e aperfeiçoamento nas áreas de **programação, redes de computadores, infraestrutura e cibersegurança**. Entusiasta de tecnologia, busco sempre me tornar um profissional cada vez mais completo.
 
 ---
 
