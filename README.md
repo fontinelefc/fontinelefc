@@ -1,10 +1,10 @@
-# 👋 Olá, sou o Fontinele!
+Fontinele,
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, atuando nas áreas de **programação, redes de computadores, infraestrutura e cibersegurança**. Apaixonado por tecnologia, busco constantemente novos conhecimentos e desafios práticos no mundo da computação.
+Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, estudando e se aperfeiçoando nas áreas de **programação, redes de computadores, infraestrutura e cibersegurança**. Entusiasta de tecnologia, busco sempre me tornar um profissional cada vez mais completo.
 
 ---
 
-## 💼 Sobre Mim
+## Principais áreas de estudo e atuação:
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas – UNINTER  
 - 🖥️ Entusiasta de **Linux**, **open source**, **redes**, **virtualização** e **hacking ético**  
@@ -14,9 +14,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, at
 
 ---
 
-## 🧠 Conhecimentos Técnicos
+## Conhecimentos Técnicos
 
-### 📡 Redes, Infraestrutura e Cibersegurança
+### Redes, Infraestrutura e Cibersegurança
 
 - Linux (Administração, CLI)
 - Virtualização com EVE-NG
@@ -24,7 +24,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, at
 - HelpDesk Técnico
 - Ethical Hacking (base)
 
-### 💻 Linguagens & Tecnologias
+### Linguagens & Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -34,7 +34,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, at
 
 ---
 
-## 🛠️ Ferramentas e Ambientes
+## Ferramentas e Ambientes
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
@@ -45,7 +45,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, at
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fontinelefc&show_icons=true&theme=radical" height="180" />
@@ -54,7 +54,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, at
 
 ---
 
-## 📬 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-fontinele-55b27b275)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fcfontinele)
@@ -62,8 +62,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, at
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filipe2cerqueira@gmail.com)
 
 ---
-
-> ⚡ *"A tecnologia move o mundo — e é com ela que quero impactá-lo."*
 
 <!--
 **fontinelefc/fontinelefc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
