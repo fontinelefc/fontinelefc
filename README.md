@@ -7,11 +7,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, foco e
 
 ## Principais áreas de estudo e atuação:
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas – UNINTER  
-- 🖥️ Entusiasta de **Linux**, **open source**, **redes**, **virtualização** e **hacking ético**  
-- 🔧 Foco em desenvolvimento com **Python**, **Java**, **JavaScript**, **HTML**, **CSS**  
-- 🌐 Experiência com **infraestrutura**, **roteamento Cisco**, **EVE-NG**, e **ambientes virtuais**
-- 🚀 Buscando constantemente evolução profissional e técnica nas áreas de TI
+- 🖥️ **Linux**, **open source**, **redes**, **virtualização** e **hacking ético**  
+- 🔧 **Python**, **Java**, **JavaScript**, **HTML**, **CSS**  
+- 🌐 **infraestrutura**, **roteamento Cisco**, **EVE-NG**, e **ambientes virtuais**
 
 ---
 
@@ -24,16 +22,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**, foco e
 - CLI CISCO (Roteadores, Switches, VLANs, Routing Protocols)
 - HelpDesk Técnico
 - Ethical Hacking (base)
-
-### Linguagens & Tecnologias
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
----
 
 ## Ferramentas e Ambientes
 
